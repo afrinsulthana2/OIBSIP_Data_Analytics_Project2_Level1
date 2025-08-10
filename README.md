@@ -1,23 +1,20 @@
-
-
-````markdown
 # Customer Segmentation Analysis
 
-##  Project Overview
+## 📌 Project Overview
 This project aims to perform **customer segmentation analysis** for an e-commerce company by analyzing customer behavior and purchase patterns.  
 The main goal is to group customers into **distinct segments** so that the business can design **targeted marketing strategies** and improve customer engagement.
 
 ---
 
-##  Objectives
+## 🎯 Objectives
 - Identify different customer segments based on purchasing behavior.
 - Provide actionable insights for targeted marketing campaigns.
 - Help improve customer satisfaction and retention rates.
 
 ---
 
-##  Dataset
-- **Source:** [Kaggle - Marketing Analytics Customer Segmentation](https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation)
+## 📂 Dataset
+- **Source:** https://www.kaggle.com/datasets/jackdaoud/marketing-data
 - **Features Include:**
   - Customer ID
   - Age
@@ -27,7 +24,7 @@ The main goal is to group customers into **distinct segments** so that the busin
 
 ---
 
-##  Methodology
+## 🛠️ Methodology
 1. **Data Loading & Cleaning**
    - Import dataset
    - Handle missing values
@@ -52,7 +49,7 @@ The main goal is to group customers into **distinct segments** so that the busin
 
 ---
 
-##  Tools & Libraries Used
+## 📊 Tools & Libraries Used
 - **Python**
 - **Pandas** – Data handling
 - **NumPy** – Numerical computations
@@ -61,7 +58,7 @@ The main goal is to group customers into **distinct segments** so that the busin
 
 ---
 
-##  Results
+## 📈 Results
 - Successfully segmented customers into meaningful groups.
 - Provided insights such as:
   - High-spending young customers
@@ -70,7 +67,7 @@ The main goal is to group customers into **distinct segments** so that the busin
 
 ---
 
-##  Recommendations
+## 💡 Recommendations
 - Offer exclusive deals for high-spending segments.
 - Design loyalty programs for average spenders.
 - Provide special discounts or re-engagement strategies for low-spending customers.
@@ -78,11 +75,3 @@ The main goal is to group customers into **distinct segments** so that the busin
 ---
 
 
-
-
-```
-
----
-
-If you want, I can also make you a **shorter one-page README** that’s more minimal for quick submission.
-```
